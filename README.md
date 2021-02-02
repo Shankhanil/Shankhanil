@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm currently working on generating face from voice and image watermarking techniques
-- 👯 I’m looking to collaborate on research in low-resource machine translation and question answer model
+- 🔭 I'm currently working on generating DApps, and MERN stack.
+- 👯 I’m looking to collaborate on open sourced projects in MERN stack and DApps.
 - 💬 Ask me about web development, machine learning and natural language processing. 
 - 📫 Find me on 
         Linkedin  as [Shankhanil Ghosh](https://www.linkedin.com/in/i-am-shankhanil/)
